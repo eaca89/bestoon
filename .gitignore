@@ -5,6 +5,7 @@ db.sqlite3
 
 *.egg-info
 *.pot
+*.pyc
 *.py[co]
 .tox/
 __pycache__
